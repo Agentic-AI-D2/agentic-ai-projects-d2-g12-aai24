@@ -106,7 +106,6 @@ Create a `.env` file:
 
 ```
 GEMINI_API_KEY=your_api_key
-GROQ_API_KEY=your_api_key
 ```
 
 ---
@@ -175,11 +174,5 @@ The system generates:
 * HuggingFace Diffusers
 * Streamlit
 * Google Gemini / Groq
-
----
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub!
 
 ---
