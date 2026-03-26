@@ -80,8 +80,7 @@ multi_agent_education/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/multimodal-education-creator.git
-cd multimodal-education-creator
+git clone https://github.com/Agentic-AI-D2/agentic-ai-projects-d2-g12-aai24
 ```
 
 ### 2️⃣ Create Virtual Environment (Recommended)
